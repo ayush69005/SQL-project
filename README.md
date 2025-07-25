@@ -27,6 +27,8 @@ This project focuses on anmalyzing employee data from an organization to uncover
 ### [Analyzing large_order.csv]
 ### [Analyzing large_product.csv]
 
+***
+
 ## Project Description
 
 This project explores and analyses sales data from online retail store using SQL. Thre objective is to uncover business insights such as top-selling products, key customer, revenue trend and city-wise performance.
