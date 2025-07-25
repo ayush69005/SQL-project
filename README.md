@@ -31,7 +31,7 @@ This project focuses on anmalyzing employee data from an organization to uncover
 
 This project explores and analyses sales data from online retail store using SQL. Thre objective is to uncover business insights such as top-selling products, key customer, revenue trend and city-wise performance.
 
-## task performed
+## Task performed
 1. Cleaned and prepared the online retail dataset for analysis.
 2. Identified top-selling products and high-revenue customers using SQL.
 3. Analyzed total revenue by country and time period.
