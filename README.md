@@ -34,3 +34,7 @@ This project explores and analyses sales data from online retail store using SQL
 ## task performed
 1. Cleaned and prepared the online retail dataset for analysis.
 2. Identified top-selling products and high-revenue customers using SQL.
+3. Analyzed total revenue by country and time period.
+4. Tracked order trends and seasonal sales patterns.
+5. Detected canceled orders and their impact on overall sales.
+6. Used aggregation and filtering techniques (GROUP BY, HAVING, JOIN, etc..) for insight generation.
