@@ -20,14 +20,17 @@ This project focuses on anmalyzing employee data from an organization to uncover
 5. Tracked monthly joins vs exists trends.
 6. Generated insight using SQL function and grouping.
 
+
+***
+
+
+
 ## 2. Analyzing Online Sales
 
 ### [Analyzing large_customer.csv]
 ### [Analyzing large_order_items.csv]
 ### [Analyzing large_order.csv]
 ### [Analyzing large_product.csv]
-
-***
 
 ## Project Description
 
