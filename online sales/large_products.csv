@@ -1,0 +1,2001 @@
+product_id,product_name,category,price
+1001,Product_1001,Home Decor,4435
+1002,Product_1002,Home Decor,777
+1003,Product_1003,Fitness,786
+1004,Product_1004,Apparel,844
+1005,Product_1005,Footwear,525
+1006,Product_1006,Home Decor,960
+1007,Product_1007,Home Decor,3235
+1008,Product_1008,Electronics,1115
+1009,Product_1009,Electronics,4901
+1010,Product_1010,Fitness,1559
+1011,Product_1011,Home Decor,801
+1012,Product_1012,Footwear,4561
+1013,Product_1013,Footwear,1054
+1014,Product_1014,Electronics,451
+1015,Product_1015,Electronics,1036
+1016,Product_1016,Apparel,2841
+1017,Product_1017,Home Decor,2667
+1018,Product_1018,Home Decor,455
+1019,Product_1019,Electronics,3091
+1020,Product_1020,Electronics,809
+1021,Product_1021,Electronics,781
+1022,Product_1022,Apparel,896
+1023,Product_1023,Apparel,3001
+1024,Product_1024,Apparel,4975
+1025,Product_1025,Home Decor,4711
+1026,Product_1026,Apparel,2422
+1027,Product_1027,Home Decor,146
+1028,Product_1028,Electronics,1235
+1029,Product_1029,Home Decor,1178
+1030,Product_1030,Footwear,4909
+1031,Product_1031,Fitness,2551
+1032,Product_1032,Electronics,4395
+1033,Product_1033,Footwear,4041
+1034,Product_1034,Fitness,3599
+1035,Product_1035,Footwear,1040
+1036,Product_1036,Fitness,1746
+1037,Product_1037,Fitness,3858
+1038,Product_1038,Apparel,2822
+1039,Product_1039,Footwear,4869
+1040,Product_1040,Footwear,4571
+1041,Product_1041,Electronics,2985
+1042,Product_1042,Home Decor,1938
+1043,Product_1043,Footwear,1028
+1044,Product_1044,Footwear,4407
+1045,Product_1045,Electronics,1547
+1046,Product_1046,Electronics,4610
+1047,Product_1047,Apparel,3395
+1048,Product_1048,Home Decor,2003
+1049,Product_1049,Home Decor,4069
+1050,Product_1050,Apparel,4100
+1051,Product_1051,Electronics,1228
+1052,Product_1052,Electronics,803
+1053,Product_1053,Electronics,2331
+1054,Product_1054,Footwear,3492
+1055,Product_1055,Home Decor,969
+1056,Product_1056,Home Decor,3641
+1057,Product_1057,Fitness,2153
+1058,Product_1058,Fitness,1159
+1059,Product_1059,Footwear,4812
+1060,Product_1060,Footwear,3328
+1061,Product_1061,Home Decor,3775
+1062,Product_1062,Fitness,2285
+1063,Product_1063,Apparel,399
+1064,Product_1064,Electronics,1767
+1065,Product_1065,Home Decor,4303
+1066,Product_1066,Apparel,4079
+1067,Product_1067,Footwear,1594
+1068,Product_1068,Electronics,2766
+1069,Product_1069,Footwear,1870
+1070,Product_1070,Fitness,232
+1071,Product_1071,Apparel,1793
+1072,Product_1072,Electronics,416
+1073,Product_1073,Electronics,102
+1074,Product_1074,Footwear,3138
+1075,Product_1075,Home Decor,1193
+1076,Product_1076,Apparel,1683
+1077,Product_1077,Electronics,1328
+1078,Product_1078,Electronics,1781
+1079,Product_1079,Fitness,2227
+1080,Product_1080,Apparel,2844
+1081,Product_1081,Apparel,1639
+1082,Product_1082,Electronics,3872
+1083,Product_1083,Apparel,2516
+1084,Product_1084,Apparel,1283
+1085,Product_1085,Electronics,4650
+1086,Product_1086,Electronics,2147
+1087,Product_1087,Footwear,197
+1088,Product_1088,Footwear,3347
+1089,Product_1089,Footwear,3439
+1090,Product_1090,Footwear,1995
+1091,Product_1091,Apparel,1442
+1092,Product_1092,Fitness,2338
+1093,Product_1093,Electronics,2891
+1094,Product_1094,Electronics,269
+1095,Product_1095,Home Decor,4477
+1096,Product_1096,Fitness,4049
+1097,Product_1097,Fitness,2538
+1098,Product_1098,Electronics,171
+1099,Product_1099,Fitness,3916
+1100,Product_1100,Home Decor,1059
+1101,Product_1101,Apparel,866
+1102,Product_1102,Footwear,4137
+1103,Product_1103,Home Decor,1674
+1104,Product_1104,Footwear,2087
+1105,Product_1105,Electronics,1387
+1106,Product_1106,Apparel,470
+1107,Product_1107,Home Decor,3388
+1108,Product_1108,Fitness,4182
+1109,Product_1109,Apparel,4993
+1110,Product_1110,Home Decor,1820
+1111,Product_1111,Apparel,1423
+1112,Product_1112,Electronics,2866
+1113,Product_1113,Fitness,3022
+1114,Product_1114,Footwear,4622
+1115,Product_1115,Footwear,4435
+1116,Product_1116,Footwear,3301
+1117,Product_1117,Home Decor,2903
+1118,Product_1118,Apparel,1507
+1119,Product_1119,Fitness,1180
+1120,Product_1120,Fitness,436
+1121,Product_1121,Home Decor,4396
+1122,Product_1122,Fitness,4557
+1123,Product_1123,Fitness,1784
+1124,Product_1124,Apparel,4387
+1125,Product_1125,Apparel,1551
+1126,Product_1126,Apparel,4605
+1127,Product_1127,Home Decor,228
+1128,Product_1128,Home Decor,2571
+1129,Product_1129,Home Decor,486
+1130,Product_1130,Fitness,1322
+1131,Product_1131,Footwear,3047
+1132,Product_1132,Fitness,3970
+1133,Product_1133,Apparel,881
+1134,Product_1134,Footwear,984
+1135,Product_1135,Electronics,756
+1136,Product_1136,Footwear,1314
+1137,Product_1137,Apparel,127
+1138,Product_1138,Apparel,3930
+1139,Product_1139,Apparel,4750
+1140,Product_1140,Apparel,2792
+1141,Product_1141,Electronics,3917
+1142,Product_1142,Footwear,499
+1143,Product_1143,Electronics,2080
+1144,Product_1144,Fitness,4714
+1145,Product_1145,Footwear,3927
+1146,Product_1146,Fitness,4801
+1147,Product_1147,Fitness,2974
+1148,Product_1148,Fitness,2045
+1149,Product_1149,Apparel,1712
+1150,Product_1150,Footwear,4246
+1151,Product_1151,Home Decor,277
+1152,Product_1152,Footwear,1536
+1153,Product_1153,Apparel,1118
+1154,Product_1154,Footwear,2597
+1155,Product_1155,Apparel,3792
+1156,Product_1156,Footwear,3924
+1157,Product_1157,Footwear,1174
+1158,Product_1158,Fitness,2539
+1159,Product_1159,Electronics,2124
+1160,Product_1160,Footwear,3966
+1161,Product_1161,Home Decor,2465
+1162,Product_1162,Electronics,2836
+1163,Product_1163,Home Decor,4690
+1164,Product_1164,Footwear,1274
+1165,Product_1165,Apparel,882
+1166,Product_1166,Footwear,419
+1167,Product_1167,Fitness,1977
+1168,Product_1168,Apparel,4760
+1169,Product_1169,Home Decor,491
+1170,Product_1170,Footwear,3208
+1171,Product_1171,Footwear,3636
+1172,Product_1172,Apparel,3406
+1173,Product_1173,Footwear,2552
+1174,Product_1174,Electronics,2698
+1175,Product_1175,Home Decor,1862
+1176,Product_1176,Footwear,3356
+1177,Product_1177,Footwear,351
+1178,Product_1178,Apparel,882
+1179,Product_1179,Fitness,4939
+1180,Product_1180,Home Decor,3299
+1181,Product_1181,Electronics,754
+1182,Product_1182,Electronics,4954
+1183,Product_1183,Apparel,4792
+1184,Product_1184,Electronics,664
+1185,Product_1185,Fitness,3887
+1186,Product_1186,Footwear,3424
+1187,Product_1187,Home Decor,3993
+1188,Product_1188,Footwear,1601
+1189,Product_1189,Apparel,935
+1190,Product_1190,Footwear,2392
+1191,Product_1191,Fitness,1936
+1192,Product_1192,Electronics,1342
+1193,Product_1193,Home Decor,3552
+1194,Product_1194,Fitness,4415
+1195,Product_1195,Apparel,1894
+1196,Product_1196,Home Decor,2336
+1197,Product_1197,Footwear,2214
+1198,Product_1198,Apparel,2657
+1199,Product_1199,Footwear,4945
+1200,Product_1200,Fitness,4127
+1201,Product_1201,Fitness,3749
+1202,Product_1202,Apparel,1192
+1203,Product_1203,Electronics,1148
+1204,Product_1204,Apparel,4047
+1205,Product_1205,Electronics,3504
+1206,Product_1206,Apparel,4486
+1207,Product_1207,Apparel,2093
+1208,Product_1208,Home Decor,1416
+1209,Product_1209,Electronics,4458
+1210,Product_1210,Electronics,3061
+1211,Product_1211,Fitness,606
+1212,Product_1212,Footwear,1750
+1213,Product_1213,Fitness,278
+1214,Product_1214,Electronics,884
+1215,Product_1215,Home Decor,3299
+1216,Product_1216,Electronics,559
+1217,Product_1217,Footwear,260
+1218,Product_1218,Footwear,1994
+1219,Product_1219,Apparel,4669
+1220,Product_1220,Home Decor,4746
+1221,Product_1221,Fitness,432
+1222,Product_1222,Home Decor,2038
+1223,Product_1223,Apparel,1188
+1224,Product_1224,Electronics,2573
+1225,Product_1225,Footwear,1274
+1226,Product_1226,Electronics,4878
+1227,Product_1227,Electronics,2152
+1228,Product_1228,Apparel,1526
+1229,Product_1229,Fitness,2857
+1230,Product_1230,Electronics,2162
+1231,Product_1231,Footwear,110
+1232,Product_1232,Footwear,406
+1233,Product_1233,Fitness,2871
+1234,Product_1234,Fitness,2950
+1235,Product_1235,Apparel,103
+1236,Product_1236,Home Decor,1718
+1237,Product_1237,Footwear,2795
+1238,Product_1238,Electronics,3207
+1239,Product_1239,Apparel,4766
+1240,Product_1240,Fitness,4839
+1241,Product_1241,Electronics,2346
+1242,Product_1242,Home Decor,3145
+1243,Product_1243,Fitness,4860
+1244,Product_1244,Home Decor,1819
+1245,Product_1245,Home Decor,3158
+1246,Product_1246,Footwear,2982
+1247,Product_1247,Footwear,683
+1248,Product_1248,Home Decor,3182
+1249,Product_1249,Footwear,2257
+1250,Product_1250,Fitness,2260
+1251,Product_1251,Home Decor,105
+1252,Product_1252,Home Decor,536
+1253,Product_1253,Apparel,3621
+1254,Product_1254,Apparel,489
+1255,Product_1255,Apparel,332
+1256,Product_1256,Apparel,1710
+1257,Product_1257,Electronics,4843
+1258,Product_1258,Apparel,1921
+1259,Product_1259,Fitness,438
+1260,Product_1260,Electronics,4243
+1261,Product_1261,Fitness,2592
+1262,Product_1262,Apparel,397
+1263,Product_1263,Home Decor,3733
+1264,Product_1264,Electronics,2848
+1265,Product_1265,Home Decor,4733
+1266,Product_1266,Fitness,759
+1267,Product_1267,Fitness,1369
+1268,Product_1268,Electronics,703
+1269,Product_1269,Fitness,3326
+1270,Product_1270,Electronics,3968
+1271,Product_1271,Fitness,3131
+1272,Product_1272,Home Decor,566
+1273,Product_1273,Footwear,1061
+1274,Product_1274,Apparel,3462
+1275,Product_1275,Apparel,705
+1276,Product_1276,Footwear,2118
+1277,Product_1277,Footwear,4430
+1278,Product_1278,Electronics,1666
+1279,Product_1279,Fitness,2029
+1280,Product_1280,Home Decor,2586
+1281,Product_1281,Apparel,3967
+1282,Product_1282,Footwear,491
+1283,Product_1283,Footwear,3848
+1284,Product_1284,Footwear,4362
+1285,Product_1285,Fitness,192
+1286,Product_1286,Home Decor,1545
+1287,Product_1287,Footwear,4088
+1288,Product_1288,Home Decor,881
+1289,Product_1289,Apparel,4305
+1290,Product_1290,Electronics,1804
+1291,Product_1291,Electronics,3661
+1292,Product_1292,Apparel,3298
+1293,Product_1293,Electronics,4254
+1294,Product_1294,Footwear,2251
+1295,Product_1295,Fitness,1197
+1296,Product_1296,Electronics,2709
+1297,Product_1297,Apparel,4469
+1298,Product_1298,Fitness,405
+1299,Product_1299,Apparel,1213
+1300,Product_1300,Footwear,3101
+1301,Product_1301,Apparel,3148
+1302,Product_1302,Footwear,4445
+1303,Product_1303,Electronics,4311
+1304,Product_1304,Fitness,4910
+1305,Product_1305,Home Decor,3006
+1306,Product_1306,Fitness,2435
+1307,Product_1307,Home Decor,3296
+1308,Product_1308,Electronics,2641
+1309,Product_1309,Apparel,2843
+1310,Product_1310,Footwear,938
+1311,Product_1311,Footwear,3462
+1312,Product_1312,Footwear,1610
+1313,Product_1313,Electronics,757
+1314,Product_1314,Electronics,1496
+1315,Product_1315,Home Decor,1035
+1316,Product_1316,Fitness,4123
+1317,Product_1317,Fitness,416
+1318,Product_1318,Apparel,1098
+1319,Product_1319,Home Decor,2381
+1320,Product_1320,Electronics,4618
+1321,Product_1321,Electronics,4154
+1322,Product_1322,Footwear,2697
+1323,Product_1323,Home Decor,1400
+1324,Product_1324,Home Decor,2962
+1325,Product_1325,Electronics,577
+1326,Product_1326,Home Decor,388
+1327,Product_1327,Footwear,2587
+1328,Product_1328,Footwear,3575
+1329,Product_1329,Electronics,3152
+1330,Product_1330,Electronics,3706
+1331,Product_1331,Home Decor,186
+1332,Product_1332,Home Decor,2640
+1333,Product_1333,Fitness,673
+1334,Product_1334,Home Decor,1050
+1335,Product_1335,Home Decor,1162
+1336,Product_1336,Apparel,3897
+1337,Product_1337,Electronics,788
+1338,Product_1338,Home Decor,4614
+1339,Product_1339,Apparel,3105
+1340,Product_1340,Home Decor,1829
+1341,Product_1341,Electronics,3354
+1342,Product_1342,Fitness,3025
+1343,Product_1343,Footwear,245
+1344,Product_1344,Electronics,2438
+1345,Product_1345,Electronics,4111
+1346,Product_1346,Apparel,241
+1347,Product_1347,Apparel,4213
+1348,Product_1348,Apparel,3971
+1349,Product_1349,Fitness,1657
+1350,Product_1350,Apparel,4422
+1351,Product_1351,Electronics,3813
+1352,Product_1352,Apparel,1043
+1353,Product_1353,Home Decor,1290
+1354,Product_1354,Home Decor,4003
+1355,Product_1355,Footwear,1283
+1356,Product_1356,Home Decor,2910
+1357,Product_1357,Footwear,4310
+1358,Product_1358,Home Decor,1364
+1359,Product_1359,Fitness,1960
+1360,Product_1360,Footwear,2569
+1361,Product_1361,Home Decor,4775
+1362,Product_1362,Footwear,2169
+1363,Product_1363,Footwear,2297
+1364,Product_1364,Home Decor,3485
+1365,Product_1365,Electronics,2470
+1366,Product_1366,Apparel,3904
+1367,Product_1367,Footwear,2963
+1368,Product_1368,Footwear,1156
+1369,Product_1369,Footwear,4425
+1370,Product_1370,Apparel,1797
+1371,Product_1371,Footwear,1351
+1372,Product_1372,Footwear,1739
+1373,Product_1373,Home Decor,2759
+1374,Product_1374,Electronics,3821
+1375,Product_1375,Fitness,4517
+1376,Product_1376,Fitness,4431
+1377,Product_1377,Apparel,4329
+1378,Product_1378,Fitness,2382
+1379,Product_1379,Electronics,4392
+1380,Product_1380,Fitness,2795
+1381,Product_1381,Electronics,119
+1382,Product_1382,Electronics,2134
+1383,Product_1383,Home Decor,2967
+1384,Product_1384,Fitness,3082
+1385,Product_1385,Footwear,2907
+1386,Product_1386,Apparel,753
+1387,Product_1387,Footwear,111
+1388,Product_1388,Fitness,955
+1389,Product_1389,Fitness,666
+1390,Product_1390,Footwear,4783
+1391,Product_1391,Home Decor,2444
+1392,Product_1392,Fitness,4803
+1393,Product_1393,Home Decor,615
+1394,Product_1394,Apparel,603
+1395,Product_1395,Fitness,1254
+1396,Product_1396,Footwear,2091
+1397,Product_1397,Home Decor,4454
+1398,Product_1398,Apparel,4477
+1399,Product_1399,Electronics,3986
+1400,Product_1400,Apparel,2164
+1401,Product_1401,Home Decor,4332
+1402,Product_1402,Fitness,821
+1403,Product_1403,Fitness,1244
+1404,Product_1404,Electronics,3542
+1405,Product_1405,Home Decor,3776
+1406,Product_1406,Fitness,4786
+1407,Product_1407,Fitness,3612
+1408,Product_1408,Home Decor,689
+1409,Product_1409,Apparel,4764
+1410,Product_1410,Footwear,1895
+1411,Product_1411,Apparel,1439
+1412,Product_1412,Home Decor,3786
+1413,Product_1413,Apparel,2515
+1414,Product_1414,Fitness,3176
+1415,Product_1415,Home Decor,1124
+1416,Product_1416,Fitness,1034
+1417,Product_1417,Fitness,3306
+1418,Product_1418,Fitness,2007
+1419,Product_1419,Apparel,423
+1420,Product_1420,Footwear,3295
+1421,Product_1421,Electronics,3241
+1422,Product_1422,Footwear,467
+1423,Product_1423,Electronics,161
+1424,Product_1424,Home Decor,308
+1425,Product_1425,Footwear,573
+1426,Product_1426,Electronics,605
+1427,Product_1427,Fitness,4162
+1428,Product_1428,Home Decor,1060
+1429,Product_1429,Footwear,4485
+1430,Product_1430,Apparel,1405
+1431,Product_1431,Home Decor,4888
+1432,Product_1432,Fitness,4884
+1433,Product_1433,Fitness,2566
+1434,Product_1434,Fitness,1046
+1435,Product_1435,Electronics,2850
+1436,Product_1436,Footwear,3471
+1437,Product_1437,Home Decor,2295
+1438,Product_1438,Footwear,4615
+1439,Product_1439,Footwear,2791
+1440,Product_1440,Electronics,3133
+1441,Product_1441,Electronics,4587
+1442,Product_1442,Fitness,616
+1443,Product_1443,Footwear,4589
+1444,Product_1444,Electronics,3093
+1445,Product_1445,Fitness,3886
+1446,Product_1446,Home Decor,3140
+1447,Product_1447,Electronics,3577
+1448,Product_1448,Electronics,4288
+1449,Product_1449,Home Decor,3195
+1450,Product_1450,Home Decor,4308
+1451,Product_1451,Electronics,2150
+1452,Product_1452,Home Decor,3428
+1453,Product_1453,Home Decor,1901
+1454,Product_1454,Fitness,249
+1455,Product_1455,Electronics,1588
+1456,Product_1456,Home Decor,690
+1457,Product_1457,Fitness,2103
+1458,Product_1458,Electronics,3774
+1459,Product_1459,Electronics,1200
+1460,Product_1460,Electronics,4919
+1461,Product_1461,Home Decor,3318
+1462,Product_1462,Home Decor,3662
+1463,Product_1463,Footwear,4980
+1464,Product_1464,Fitness,3164
+1465,Product_1465,Footwear,431
+1466,Product_1466,Fitness,4167
+1467,Product_1467,Apparel,4573
+1468,Product_1468,Footwear,2424
+1469,Product_1469,Electronics,717
+1470,Product_1470,Apparel,3538
+1471,Product_1471,Apparel,3108
+1472,Product_1472,Apparel,979
+1473,Product_1473,Fitness,3505
+1474,Product_1474,Home Decor,1005
+1475,Product_1475,Home Decor,2894
+1476,Product_1476,Apparel,3310
+1477,Product_1477,Home Decor,4565
+1478,Product_1478,Electronics,715
+1479,Product_1479,Home Decor,2694
+1480,Product_1480,Fitness,1424
+1481,Product_1481,Apparel,718
+1482,Product_1482,Footwear,2092
+1483,Product_1483,Electronics,2287
+1484,Product_1484,Footwear,3070
+1485,Product_1485,Apparel,578
+1486,Product_1486,Apparel,4110
+1487,Product_1487,Footwear,953
+1488,Product_1488,Apparel,1893
+1489,Product_1489,Apparel,1630
+1490,Product_1490,Apparel,1056
+1491,Product_1491,Home Decor,694
+1492,Product_1492,Home Decor,3648
+1493,Product_1493,Fitness,4079
+1494,Product_1494,Footwear,715
+1495,Product_1495,Electronics,1148
+1496,Product_1496,Footwear,2942
+1497,Product_1497,Footwear,3992
+1498,Product_1498,Fitness,3279
+1499,Product_1499,Home Decor,2714
+1500,Product_1500,Electronics,2617
+1501,Product_1501,Electronics,3329
+1502,Product_1502,Fitness,4069
+1503,Product_1503,Apparel,1330
+1504,Product_1504,Footwear,2404
+1505,Product_1505,Footwear,2675
+1506,Product_1506,Electronics,3589
+1507,Product_1507,Footwear,772
+1508,Product_1508,Electronics,865
+1509,Product_1509,Home Decor,4951
+1510,Product_1510,Home Decor,297
+1511,Product_1511,Electronics,2050
+1512,Product_1512,Fitness,3277
+1513,Product_1513,Footwear,4883
+1514,Product_1514,Electronics,1622
+1515,Product_1515,Fitness,4569
+1516,Product_1516,Home Decor,3074
+1517,Product_1517,Footwear,1154
+1518,Product_1518,Footwear,3793
+1519,Product_1519,Home Decor,3641
+1520,Product_1520,Apparel,3436
+1521,Product_1521,Electronics,3421
+1522,Product_1522,Fitness,4945
+1523,Product_1523,Fitness,4568
+1524,Product_1524,Apparel,2751
+1525,Product_1525,Fitness,3348
+1526,Product_1526,Fitness,4779
+1527,Product_1527,Footwear,1662
+1528,Product_1528,Electronics,1603
+1529,Product_1529,Footwear,3570
+1530,Product_1530,Home Decor,2935
+1531,Product_1531,Footwear,3211
+1532,Product_1532,Apparel,4017
+1533,Product_1533,Electronics,140
+1534,Product_1534,Apparel,3301
+1535,Product_1535,Electronics,957
+1536,Product_1536,Electronics,898
+1537,Product_1537,Electronics,1549
+1538,Product_1538,Fitness,2996
+1539,Product_1539,Footwear,1504
+1540,Product_1540,Fitness,2978
+1541,Product_1541,Fitness,4015
+1542,Product_1542,Footwear,3641
+1543,Product_1543,Apparel,4156
+1544,Product_1544,Electronics,1417
+1545,Product_1545,Apparel,3848
+1546,Product_1546,Apparel,772
+1547,Product_1547,Home Decor,853
+1548,Product_1548,Fitness,867
+1549,Product_1549,Electronics,3060
+1550,Product_1550,Footwear,3591
+1551,Product_1551,Apparel,4583
+1552,Product_1552,Home Decor,521
+1553,Product_1553,Home Decor,3596
+1554,Product_1554,Apparel,3655
+1555,Product_1555,Apparel,4711
+1556,Product_1556,Home Decor,4719
+1557,Product_1557,Fitness,1234
+1558,Product_1558,Home Decor,3682
+1559,Product_1559,Home Decor,2059
+1560,Product_1560,Home Decor,2916
+1561,Product_1561,Fitness,4762
+1562,Product_1562,Fitness,1979
+1563,Product_1563,Fitness,811
+1564,Product_1564,Footwear,1823
+1565,Product_1565,Footwear,3493
+1566,Product_1566,Footwear,582
+1567,Product_1567,Footwear,3765
+1568,Product_1568,Electronics,763
+1569,Product_1569,Electronics,3079
+1570,Product_1570,Electronics,1029
+1571,Product_1571,Apparel,1002
+1572,Product_1572,Electronics,2172
+1573,Product_1573,Apparel,4637
+1574,Product_1574,Home Decor,458
+1575,Product_1575,Electronics,4653
+1576,Product_1576,Fitness,764
+1577,Product_1577,Footwear,1857
+1578,Product_1578,Apparel,1641
+1579,Product_1579,Home Decor,3092
+1580,Product_1580,Electronics,3069
+1581,Product_1581,Footwear,2354
+1582,Product_1582,Fitness,3245
+1583,Product_1583,Home Decor,3667
+1584,Product_1584,Fitness,128
+1585,Product_1585,Electronics,1523
+1586,Product_1586,Apparel,4902
+1587,Product_1587,Home Decor,3208
+1588,Product_1588,Electronics,747
+1589,Product_1589,Electronics,4237
+1590,Product_1590,Apparel,2944
+1591,Product_1591,Apparel,4578
+1592,Product_1592,Electronics,282
+1593,Product_1593,Apparel,1944
+1594,Product_1594,Home Decor,1539
+1595,Product_1595,Apparel,4282
+1596,Product_1596,Home Decor,3195
+1597,Product_1597,Electronics,2724
+1598,Product_1598,Footwear,4085
+1599,Product_1599,Electronics,2216
+1600,Product_1600,Electronics,3375
+1601,Product_1601,Electronics,4070
+1602,Product_1602,Home Decor,3678
+1603,Product_1603,Footwear,3595
+1604,Product_1604,Apparel,610
+1605,Product_1605,Fitness,1739
+1606,Product_1606,Home Decor,1371
+1607,Product_1607,Electronics,4324
+1608,Product_1608,Electronics,3600
+1609,Product_1609,Fitness,1485
+1610,Product_1610,Apparel,4883
+1611,Product_1611,Footwear,2857
+1612,Product_1612,Electronics,3661
+1613,Product_1613,Fitness,2184
+1614,Product_1614,Electronics,1512
+1615,Product_1615,Fitness,1887
+1616,Product_1616,Apparel,1109
+1617,Product_1617,Fitness,4417
+1618,Product_1618,Electronics,4943
+1619,Product_1619,Home Decor,4386
+1620,Product_1620,Apparel,4881
+1621,Product_1621,Fitness,2607
+1622,Product_1622,Home Decor,1934
+1623,Product_1623,Footwear,2308
+1624,Product_1624,Footwear,997
+1625,Product_1625,Fitness,4944
+1626,Product_1626,Apparel,1299
+1627,Product_1627,Electronics,3846
+1628,Product_1628,Footwear,3470
+1629,Product_1629,Home Decor,4560
+1630,Product_1630,Home Decor,526
+1631,Product_1631,Home Decor,3936
+1632,Product_1632,Footwear,3730
+1633,Product_1633,Fitness,1099
+1634,Product_1634,Footwear,3902
+1635,Product_1635,Apparel,1741
+1636,Product_1636,Apparel,1676
+1637,Product_1637,Fitness,2768
+1638,Product_1638,Home Decor,4564
+1639,Product_1639,Footwear,3599
+1640,Product_1640,Fitness,3008
+1641,Product_1641,Electronics,4644
+1642,Product_1642,Apparel,1168
+1643,Product_1643,Electronics,3041
+1644,Product_1644,Electronics,3706
+1645,Product_1645,Footwear,3383
+1646,Product_1646,Fitness,4505
+1647,Product_1647,Electronics,601
+1648,Product_1648,Electronics,3490
+1649,Product_1649,Home Decor,824
+1650,Product_1650,Home Decor,3692
+1651,Product_1651,Electronics,909
+1652,Product_1652,Footwear,1298
+1653,Product_1653,Electronics,2863
+1654,Product_1654,Apparel,3425
+1655,Product_1655,Fitness,812
+1656,Product_1656,Footwear,1435
+1657,Product_1657,Home Decor,1880
+1658,Product_1658,Fitness,403
+1659,Product_1659,Apparel,2667
+1660,Product_1660,Footwear,348
+1661,Product_1661,Footwear,4508
+1662,Product_1662,Footwear,4281
+1663,Product_1663,Home Decor,1210
+1664,Product_1664,Fitness,119
+1665,Product_1665,Apparel,3855
+1666,Product_1666,Electronics,3679
+1667,Product_1667,Electronics,4553
+1668,Product_1668,Electronics,1466
+1669,Product_1669,Fitness,2509
+1670,Product_1670,Footwear,1880
+1671,Product_1671,Apparel,4263
+1672,Product_1672,Home Decor,3065
+1673,Product_1673,Footwear,1333
+1674,Product_1674,Home Decor,3923
+1675,Product_1675,Footwear,2623
+1676,Product_1676,Electronics,2821
+1677,Product_1677,Footwear,3596
+1678,Product_1678,Electronics,2909
+1679,Product_1679,Electronics,1807
+1680,Product_1680,Apparel,2199
+1681,Product_1681,Apparel,3145
+1682,Product_1682,Home Decor,566
+1683,Product_1683,Home Decor,2586
+1684,Product_1684,Fitness,2099
+1685,Product_1685,Fitness,3936
+1686,Product_1686,Home Decor,4503
+1687,Product_1687,Apparel,2577
+1688,Product_1688,Electronics,1356
+1689,Product_1689,Fitness,3521
+1690,Product_1690,Apparel,232
+1691,Product_1691,Electronics,2844
+1692,Product_1692,Fitness,590
+1693,Product_1693,Apparel,884
+1694,Product_1694,Home Decor,1177
+1695,Product_1695,Apparel,2105
+1696,Product_1696,Fitness,806
+1697,Product_1697,Electronics,4177
+1698,Product_1698,Fitness,1052
+1699,Product_1699,Footwear,4604
+1700,Product_1700,Home Decor,849
+1701,Product_1701,Footwear,1139
+1702,Product_1702,Fitness,3525
+1703,Product_1703,Fitness,3516
+1704,Product_1704,Apparel,2508
+1705,Product_1705,Apparel,4839
+1706,Product_1706,Footwear,2551
+1707,Product_1707,Apparel,752
+1708,Product_1708,Apparel,4310
+1709,Product_1709,Footwear,3472
+1710,Product_1710,Apparel,1966
+1711,Product_1711,Footwear,2851
+1712,Product_1712,Electronics,1088
+1713,Product_1713,Footwear,4569
+1714,Product_1714,Apparel,1859
+1715,Product_1715,Home Decor,2124
+1716,Product_1716,Home Decor,1421
+1717,Product_1717,Footwear,722
+1718,Product_1718,Home Decor,500
+1719,Product_1719,Home Decor,2183
+1720,Product_1720,Apparel,1998
+1721,Product_1721,Electronics,1753
+1722,Product_1722,Electronics,1205
+1723,Product_1723,Apparel,2185
+1724,Product_1724,Electronics,4709
+1725,Product_1725,Footwear,2319
+1726,Product_1726,Electronics,3517
+1727,Product_1727,Home Decor,1637
+1728,Product_1728,Apparel,454
+1729,Product_1729,Fitness,3254
+1730,Product_1730,Home Decor,653
+1731,Product_1731,Home Decor,410
+1732,Product_1732,Footwear,1811
+1733,Product_1733,Fitness,1728
+1734,Product_1734,Footwear,2019
+1735,Product_1735,Apparel,2957
+1736,Product_1736,Fitness,3978
+1737,Product_1737,Apparel,2355
+1738,Product_1738,Electronics,1366
+1739,Product_1739,Home Decor,153
+1740,Product_1740,Electronics,1201
+1741,Product_1741,Apparel,1797
+1742,Product_1742,Footwear,2610
+1743,Product_1743,Home Decor,2521
+1744,Product_1744,Home Decor,1004
+1745,Product_1745,Fitness,2194
+1746,Product_1746,Electronics,3802
+1747,Product_1747,Apparel,370
+1748,Product_1748,Apparel,2404
+1749,Product_1749,Apparel,4630
+1750,Product_1750,Apparel,585
+1751,Product_1751,Footwear,2330
+1752,Product_1752,Apparel,3053
+1753,Product_1753,Footwear,1925
+1754,Product_1754,Footwear,3416
+1755,Product_1755,Fitness,1676
+1756,Product_1756,Fitness,780
+1757,Product_1757,Electronics,2027
+1758,Product_1758,Apparel,1022
+1759,Product_1759,Footwear,3841
+1760,Product_1760,Fitness,2070
+1761,Product_1761,Apparel,4381
+1762,Product_1762,Fitness,1653
+1763,Product_1763,Fitness,738
+1764,Product_1764,Electronics,2447
+1765,Product_1765,Footwear,4421
+1766,Product_1766,Footwear,4938
+1767,Product_1767,Fitness,4065
+1768,Product_1768,Apparel,4983
+1769,Product_1769,Footwear,3393
+1770,Product_1770,Electronics,4586
+1771,Product_1771,Footwear,3368
+1772,Product_1772,Electronics,1574
+1773,Product_1773,Apparel,3596
+1774,Product_1774,Fitness,2636
+1775,Product_1775,Apparel,4148
+1776,Product_1776,Apparel,2940
+1777,Product_1777,Electronics,1339
+1778,Product_1778,Apparel,3550
+1779,Product_1779,Fitness,4970
+1780,Product_1780,Footwear,663
+1781,Product_1781,Electronics,779
+1782,Product_1782,Electronics,4732
+1783,Product_1783,Apparel,3832
+1784,Product_1784,Apparel,4999
+1785,Product_1785,Apparel,968
+1786,Product_1786,Home Decor,4346
+1787,Product_1787,Fitness,1606
+1788,Product_1788,Apparel,2656
+1789,Product_1789,Home Decor,3250
+1790,Product_1790,Electronics,3691
+1791,Product_1791,Fitness,623
+1792,Product_1792,Home Decor,1827
+1793,Product_1793,Electronics,2698
+1794,Product_1794,Footwear,1293
+1795,Product_1795,Footwear,1158
+1796,Product_1796,Fitness,309
+1797,Product_1797,Home Decor,4622
+1798,Product_1798,Home Decor,3242
+1799,Product_1799,Electronics,3303
+1800,Product_1800,Footwear,4287
+1801,Product_1801,Footwear,3120
+1802,Product_1802,Apparel,1803
+1803,Product_1803,Home Decor,313
+1804,Product_1804,Fitness,4989
+1805,Product_1805,Footwear,4303
+1806,Product_1806,Fitness,4102
+1807,Product_1807,Fitness,1505
+1808,Product_1808,Apparel,2703
+1809,Product_1809,Footwear,2825
+1810,Product_1810,Fitness,4178
+1811,Product_1811,Footwear,4303
+1812,Product_1812,Apparel,1597
+1813,Product_1813,Electronics,3982
+1814,Product_1814,Electronics,3671
+1815,Product_1815,Electronics,808
+1816,Product_1816,Fitness,3864
+1817,Product_1817,Fitness,555
+1818,Product_1818,Fitness,4219
+1819,Product_1819,Footwear,444
+1820,Product_1820,Home Decor,3412
+1821,Product_1821,Footwear,1828
+1822,Product_1822,Electronics,4694
+1823,Product_1823,Home Decor,2087
+1824,Product_1824,Apparel,453
+1825,Product_1825,Home Decor,3971
+1826,Product_1826,Apparel,1455
+1827,Product_1827,Fitness,4136
+1828,Product_1828,Electronics,4002
+1829,Product_1829,Fitness,1369
+1830,Product_1830,Footwear,1225
+1831,Product_1831,Fitness,4011
+1832,Product_1832,Fitness,1627
+1833,Product_1833,Home Decor,1661
+1834,Product_1834,Apparel,2583
+1835,Product_1835,Electronics,2958
+1836,Product_1836,Fitness,4105
+1837,Product_1837,Fitness,864
+1838,Product_1838,Apparel,3106
+1839,Product_1839,Footwear,1934
+1840,Product_1840,Footwear,3184
+1841,Product_1841,Home Decor,2932
+1842,Product_1842,Apparel,113
+1843,Product_1843,Fitness,1903
+1844,Product_1844,Footwear,4154
+1845,Product_1845,Footwear,2510
+1846,Product_1846,Electronics,508
+1847,Product_1847,Electronics,3028
+1848,Product_1848,Home Decor,987
+1849,Product_1849,Footwear,2818
+1850,Product_1850,Footwear,1532
+1851,Product_1851,Apparel,3042
+1852,Product_1852,Electronics,2781
+1853,Product_1853,Electronics,466
+1854,Product_1854,Footwear,1095
+1855,Product_1855,Home Decor,3258
+1856,Product_1856,Footwear,4844
+1857,Product_1857,Fitness,712
+1858,Product_1858,Electronics,927
+1859,Product_1859,Electronics,1589
+1860,Product_1860,Apparel,1055
+1861,Product_1861,Home Decor,1468
+1862,Product_1862,Apparel,2236
+1863,Product_1863,Electronics,4295
+1864,Product_1864,Home Decor,4005
+1865,Product_1865,Footwear,304
+1866,Product_1866,Footwear,1210
+1867,Product_1867,Home Decor,4956
+1868,Product_1868,Fitness,4403
+1869,Product_1869,Footwear,3204
+1870,Product_1870,Apparel,3505
+1871,Product_1871,Footwear,1765
+1872,Product_1872,Footwear,3687
+1873,Product_1873,Fitness,523
+1874,Product_1874,Footwear,348
+1875,Product_1875,Apparel,1570
+1876,Product_1876,Apparel,162
+1877,Product_1877,Apparel,3784
+1878,Product_1878,Electronics,2431
+1879,Product_1879,Footwear,1489
+1880,Product_1880,Footwear,4426
+1881,Product_1881,Home Decor,3603
+1882,Product_1882,Fitness,2045
+1883,Product_1883,Electronics,1460
+1884,Product_1884,Footwear,3412
+1885,Product_1885,Apparel,3286
+1886,Product_1886,Electronics,2813
+1887,Product_1887,Electronics,3620
+1888,Product_1888,Apparel,1204
+1889,Product_1889,Home Decor,107
+1890,Product_1890,Footwear,3579
+1891,Product_1891,Fitness,1365
+1892,Product_1892,Home Decor,650
+1893,Product_1893,Fitness,2697
+1894,Product_1894,Fitness,1749
+1895,Product_1895,Footwear,1737
+1896,Product_1896,Electronics,1576
+1897,Product_1897,Apparel,3398
+1898,Product_1898,Fitness,4026
+1899,Product_1899,Home Decor,4128
+1900,Product_1900,Footwear,3422
+1901,Product_1901,Footwear,3477
+1902,Product_1902,Home Decor,4738
+1903,Product_1903,Fitness,3935
+1904,Product_1904,Fitness,3499
+1905,Product_1905,Fitness,1853
+1906,Product_1906,Home Decor,1545
+1907,Product_1907,Fitness,2051
+1908,Product_1908,Home Decor,4936
+1909,Product_1909,Footwear,1374
+1910,Product_1910,Home Decor,3093
+1911,Product_1911,Apparel,2067
+1912,Product_1912,Electronics,715
+1913,Product_1913,Electronics,1772
+1914,Product_1914,Apparel,1910
+1915,Product_1915,Home Decor,523
+1916,Product_1916,Electronics,2113
+1917,Product_1917,Apparel,4454
+1918,Product_1918,Fitness,3660
+1919,Product_1919,Apparel,716
+1920,Product_1920,Electronics,3787
+1921,Product_1921,Home Decor,4805
+1922,Product_1922,Home Decor,4633
+1923,Product_1923,Home Decor,3283
+1924,Product_1924,Electronics,2108
+1925,Product_1925,Fitness,2339
+1926,Product_1926,Home Decor,1379
+1927,Product_1927,Footwear,4565
+1928,Product_1928,Fitness,4674
+1929,Product_1929,Apparel,4823
+1930,Product_1930,Footwear,541
+1931,Product_1931,Fitness,950
+1932,Product_1932,Electronics,2729
+1933,Product_1933,Footwear,1737
+1934,Product_1934,Fitness,3206
+1935,Product_1935,Fitness,3385
+1936,Product_1936,Fitness,3144
+1937,Product_1937,Fitness,706
+1938,Product_1938,Home Decor,3877
+1939,Product_1939,Footwear,4836
+1940,Product_1940,Fitness,4412
+1941,Product_1941,Apparel,465
+1942,Product_1942,Fitness,616
+1943,Product_1943,Home Decor,2212
+1944,Product_1944,Footwear,1544
+1945,Product_1945,Footwear,3744
+1946,Product_1946,Fitness,3862
+1947,Product_1947,Fitness,3355
+1948,Product_1948,Apparel,568
+1949,Product_1949,Footwear,3634
+1950,Product_1950,Footwear,1146
+1951,Product_1951,Footwear,4279
+1952,Product_1952,Electronics,2948
+1953,Product_1953,Footwear,3202
+1954,Product_1954,Footwear,504
+1955,Product_1955,Apparel,2590
+1956,Product_1956,Apparel,681
+1957,Product_1957,Home Decor,4654
+1958,Product_1958,Apparel,4540
+1959,Product_1959,Footwear,2400
+1960,Product_1960,Footwear,805
+1961,Product_1961,Footwear,3608
+1962,Product_1962,Apparel,4721
+1963,Product_1963,Fitness,935
+1964,Product_1964,Electronics,1133
+1965,Product_1965,Home Decor,666
+1966,Product_1966,Fitness,2843
+1967,Product_1967,Electronics,3168
+1968,Product_1968,Apparel,923
+1969,Product_1969,Home Decor,4380
+1970,Product_1970,Home Decor,3477
+1971,Product_1971,Apparel,4121
+1972,Product_1972,Fitness,4178
+1973,Product_1973,Electronics,1591
+1974,Product_1974,Footwear,3980
+1975,Product_1975,Footwear,1506
+1976,Product_1976,Electronics,4775
+1977,Product_1977,Footwear,4489
+1978,Product_1978,Fitness,3082
+1979,Product_1979,Apparel,4930
+1980,Product_1980,Footwear,3675
+1981,Product_1981,Apparel,4218
+1982,Product_1982,Footwear,2470
+1983,Product_1983,Footwear,669
+1984,Product_1984,Home Decor,3839
+1985,Product_1985,Footwear,4690
+1986,Product_1986,Home Decor,343
+1987,Product_1987,Electronics,3230
+1988,Product_1988,Footwear,1244
+1989,Product_1989,Footwear,2304
+1990,Product_1990,Footwear,1056
+1991,Product_1991,Home Decor,2375
+1992,Product_1992,Footwear,2963
+1993,Product_1993,Fitness,4427
+1994,Product_1994,Electronics,1589
+1995,Product_1995,Apparel,3389
+1996,Product_1996,Apparel,875
+1997,Product_1997,Home Decor,4119
+1998,Product_1998,Electronics,1409
+1999,Product_1999,Electronics,525
+2000,Product_2000,Apparel,1413
+2001,Product_2001,Home Decor,220
+2002,Product_2002,Fitness,1376
+2003,Product_2003,Electronics,1510
+2004,Product_2004,Apparel,836
+2005,Product_2005,Fitness,4505
+2006,Product_2006,Fitness,2551
+2007,Product_2007,Fitness,2549
+2008,Product_2008,Footwear,571
+2009,Product_2009,Fitness,3794
+2010,Product_2010,Fitness,158
+2011,Product_2011,Apparel,3144
+2012,Product_2012,Home Decor,1520
+2013,Product_2013,Footwear,1808
+2014,Product_2014,Apparel,2995
+2015,Product_2015,Apparel,218
+2016,Product_2016,Fitness,4604
+2017,Product_2017,Footwear,1809
+2018,Product_2018,Home Decor,280
+2019,Product_2019,Home Decor,4024
+2020,Product_2020,Apparel,990
+2021,Product_2021,Footwear,491
+2022,Product_2022,Apparel,2002
+2023,Product_2023,Apparel,1147
+2024,Product_2024,Home Decor,2217
+2025,Product_2025,Home Decor,904
+2026,Product_2026,Apparel,4741
+2027,Product_2027,Home Decor,2724
+2028,Product_2028,Home Decor,2309
+2029,Product_2029,Fitness,3255
+2030,Product_2030,Fitness,4454
+2031,Product_2031,Electronics,3298
+2032,Product_2032,Electronics,3259
+2033,Product_2033,Apparel,1953
+2034,Product_2034,Apparel,3998
+2035,Product_2035,Apparel,3197
+2036,Product_2036,Apparel,4318
+2037,Product_2037,Home Decor,3086
+2038,Product_2038,Electronics,820
+2039,Product_2039,Apparel,140
+2040,Product_2040,Fitness,3678
+2041,Product_2041,Home Decor,4693
+2042,Product_2042,Electronics,525
+2043,Product_2043,Home Decor,1546
+2044,Product_2044,Footwear,3376
+2045,Product_2045,Apparel,1322
+2046,Product_2046,Fitness,467
+2047,Product_2047,Electronics,1404
+2048,Product_2048,Home Decor,3461
+2049,Product_2049,Electronics,4393
+2050,Product_2050,Footwear,137
+2051,Product_2051,Fitness,1021
+2052,Product_2052,Home Decor,1908
+2053,Product_2053,Footwear,3550
+2054,Product_2054,Fitness,2043
+2055,Product_2055,Apparel,1558
+2056,Product_2056,Electronics,4829
+2057,Product_2057,Footwear,3693
+2058,Product_2058,Electronics,1869
+2059,Product_2059,Electronics,3147
+2060,Product_2060,Footwear,730
+2061,Product_2061,Footwear,910
+2062,Product_2062,Home Decor,1903
+2063,Product_2063,Fitness,3135
+2064,Product_2064,Apparel,1284
+2065,Product_2065,Fitness,4833
+2066,Product_2066,Apparel,1978
+2067,Product_2067,Apparel,1409
+2068,Product_2068,Home Decor,2180
+2069,Product_2069,Fitness,4602
+2070,Product_2070,Footwear,1299
+2071,Product_2071,Electronics,2387
+2072,Product_2072,Home Decor,4604
+2073,Product_2073,Home Decor,1111
+2074,Product_2074,Home Decor,4710
+2075,Product_2075,Footwear,2693
+2076,Product_2076,Electronics,2958
+2077,Product_2077,Apparel,1416
+2078,Product_2078,Footwear,228
+2079,Product_2079,Fitness,1174
+2080,Product_2080,Fitness,4464
+2081,Product_2081,Footwear,4833
+2082,Product_2082,Home Decor,1395
+2083,Product_2083,Footwear,126
+2084,Product_2084,Electronics,2043
+2085,Product_2085,Apparel,2486
+2086,Product_2086,Apparel,1041
+2087,Product_2087,Apparel,4442
+2088,Product_2088,Apparel,3018
+2089,Product_2089,Home Decor,4267
+2090,Product_2090,Fitness,2205
+2091,Product_2091,Fitness,1784
+2092,Product_2092,Footwear,1596
+2093,Product_2093,Apparel,2982
+2094,Product_2094,Fitness,622
+2095,Product_2095,Electronics,663
+2096,Product_2096,Footwear,1380
+2097,Product_2097,Home Decor,2890
+2098,Product_2098,Fitness,1149
+2099,Product_2099,Apparel,1215
+2100,Product_2100,Home Decor,2473
+2101,Product_2101,Electronics,3665
+2102,Product_2102,Electronics,2145
+2103,Product_2103,Electronics,2586
+2104,Product_2104,Home Decor,3452
+2105,Product_2105,Fitness,1585
+2106,Product_2106,Fitness,3238
+2107,Product_2107,Apparel,3676
+2108,Product_2108,Home Decor,2829
+2109,Product_2109,Fitness,2789
+2110,Product_2110,Footwear,2206
+2111,Product_2111,Apparel,4177
+2112,Product_2112,Fitness,2712
+2113,Product_2113,Footwear,4068
+2114,Product_2114,Apparel,3613
+2115,Product_2115,Electronics,2018
+2116,Product_2116,Electronics,2674
+2117,Product_2117,Footwear,916
+2118,Product_2118,Electronics,4269
+2119,Product_2119,Footwear,2709
+2120,Product_2120,Apparel,2664
+2121,Product_2121,Fitness,2164
+2122,Product_2122,Apparel,3316
+2123,Product_2123,Footwear,2979
+2124,Product_2124,Home Decor,1575
+2125,Product_2125,Home Decor,3020
+2126,Product_2126,Footwear,3354
+2127,Product_2127,Electronics,3430
+2128,Product_2128,Footwear,2692
+2129,Product_2129,Fitness,1450
+2130,Product_2130,Apparel,768
+2131,Product_2131,Footwear,4986
+2132,Product_2132,Fitness,2013
+2133,Product_2133,Home Decor,2325
+2134,Product_2134,Footwear,4066
+2135,Product_2135,Electronics,4968
+2136,Product_2136,Footwear,2862
+2137,Product_2137,Home Decor,3640
+2138,Product_2138,Fitness,1773
+2139,Product_2139,Footwear,2910
+2140,Product_2140,Footwear,2183
+2141,Product_2141,Electronics,3607
+2142,Product_2142,Footwear,746
+2143,Product_2143,Apparel,610
+2144,Product_2144,Footwear,4206
+2145,Product_2145,Fitness,4884
+2146,Product_2146,Apparel,3389
+2147,Product_2147,Electronics,4531
+2148,Product_2148,Fitness,1662
+2149,Product_2149,Electronics,4132
+2150,Product_2150,Footwear,1161
+2151,Product_2151,Footwear,3766
+2152,Product_2152,Footwear,2225
+2153,Product_2153,Home Decor,3895
+2154,Product_2154,Home Decor,266
+2155,Product_2155,Home Decor,4516
+2156,Product_2156,Apparel,1005
+2157,Product_2157,Home Decor,4002
+2158,Product_2158,Footwear,2069
+2159,Product_2159,Footwear,1639
+2160,Product_2160,Electronics,1257
+2161,Product_2161,Fitness,2997
+2162,Product_2162,Fitness,1398
+2163,Product_2163,Apparel,815
+2164,Product_2164,Fitness,676
+2165,Product_2165,Apparel,208
+2166,Product_2166,Electronics,4586
+2167,Product_2167,Footwear,2848
+2168,Product_2168,Footwear,2571
+2169,Product_2169,Apparel,4580
+2170,Product_2170,Home Decor,3720
+2171,Product_2171,Electronics,235
+2172,Product_2172,Footwear,1635
+2173,Product_2173,Footwear,1834
+2174,Product_2174,Electronics,1674
+2175,Product_2175,Apparel,4002
+2176,Product_2176,Home Decor,3124
+2177,Product_2177,Apparel,1798
+2178,Product_2178,Electronics,1116
+2179,Product_2179,Fitness,3076
+2180,Product_2180,Apparel,4460
+2181,Product_2181,Fitness,1532
+2182,Product_2182,Electronics,4596
+2183,Product_2183,Fitness,3257
+2184,Product_2184,Footwear,4462
+2185,Product_2185,Fitness,260
+2186,Product_2186,Home Decor,2633
+2187,Product_2187,Home Decor,1598
+2188,Product_2188,Electronics,3934
+2189,Product_2189,Home Decor,1085
+2190,Product_2190,Fitness,1784
+2191,Product_2191,Footwear,568
+2192,Product_2192,Electronics,2865
+2193,Product_2193,Apparel,1684
+2194,Product_2194,Footwear,2098
+2195,Product_2195,Apparel,1660
+2196,Product_2196,Electronics,805
+2197,Product_2197,Apparel,715
+2198,Product_2198,Footwear,328
+2199,Product_2199,Home Decor,1605
+2200,Product_2200,Electronics,1652
+2201,Product_2201,Home Decor,3689
+2202,Product_2202,Home Decor,3141
+2203,Product_2203,Home Decor,3205
+2204,Product_2204,Footwear,2458
+2205,Product_2205,Fitness,1444
+2206,Product_2206,Home Decor,2564
+2207,Product_2207,Fitness,2627
+2208,Product_2208,Electronics,4686
+2209,Product_2209,Apparel,2303
+2210,Product_2210,Home Decor,1844
+2211,Product_2211,Fitness,187
+2212,Product_2212,Electronics,4006
+2213,Product_2213,Footwear,1067
+2214,Product_2214,Electronics,145
+2215,Product_2215,Footwear,1784
+2216,Product_2216,Apparel,1828
+2217,Product_2217,Apparel,747
+2218,Product_2218,Fitness,4669
+2219,Product_2219,Footwear,892
+2220,Product_2220,Footwear,293
+2221,Product_2221,Apparel,711
+2222,Product_2222,Electronics,1442
+2223,Product_2223,Electronics,2242
+2224,Product_2224,Fitness,2374
+2225,Product_2225,Apparel,1013
+2226,Product_2226,Apparel,4067
+2227,Product_2227,Home Decor,4541
+2228,Product_2228,Fitness,2297
+2229,Product_2229,Apparel,799
+2230,Product_2230,Home Decor,746
+2231,Product_2231,Footwear,1825
+2232,Product_2232,Home Decor,4919
+2233,Product_2233,Apparel,3194
+2234,Product_2234,Electronics,1184
+2235,Product_2235,Fitness,1006
+2236,Product_2236,Footwear,2866
+2237,Product_2237,Electronics,3152
+2238,Product_2238,Fitness,3213
+2239,Product_2239,Footwear,1582
+2240,Product_2240,Footwear,2494
+2241,Product_2241,Apparel,4606
+2242,Product_2242,Home Decor,3346
+2243,Product_2243,Electronics,4824
+2244,Product_2244,Home Decor,3813
+2245,Product_2245,Apparel,311
+2246,Product_2246,Apparel,2482
+2247,Product_2247,Electronics,2979
+2248,Product_2248,Footwear,2467
+2249,Product_2249,Fitness,3616
+2250,Product_2250,Footwear,3335
+2251,Product_2251,Home Decor,3527
+2252,Product_2252,Electronics,2284
+2253,Product_2253,Apparel,1854
+2254,Product_2254,Footwear,2519
+2255,Product_2255,Electronics,2508
+2256,Product_2256,Fitness,273
+2257,Product_2257,Apparel,2877
+2258,Product_2258,Footwear,3668
+2259,Product_2259,Apparel,1002
+2260,Product_2260,Home Decor,463
+2261,Product_2261,Fitness,842
+2262,Product_2262,Fitness,1175
+2263,Product_2263,Fitness,4818
+2264,Product_2264,Home Decor,2944
+2265,Product_2265,Footwear,257
+2266,Product_2266,Footwear,3395
+2267,Product_2267,Footwear,194
+2268,Product_2268,Footwear,1388
+2269,Product_2269,Footwear,4815
+2270,Product_2270,Electronics,2598
+2271,Product_2271,Home Decor,4636
+2272,Product_2272,Fitness,2076
+2273,Product_2273,Footwear,3136
+2274,Product_2274,Footwear,4038
+2275,Product_2275,Fitness,905
+2276,Product_2276,Fitness,1806
+2277,Product_2277,Electronics,3274
+2278,Product_2278,Home Decor,2364
+2279,Product_2279,Apparel,4457
+2280,Product_2280,Electronics,2034
+2281,Product_2281,Apparel,2036
+2282,Product_2282,Electronics,1366
+2283,Product_2283,Home Decor,4784
+2284,Product_2284,Home Decor,3103
+2285,Product_2285,Apparel,1990
+2286,Product_2286,Footwear,676
+2287,Product_2287,Footwear,732
+2288,Product_2288,Footwear,157
+2289,Product_2289,Apparel,1780
+2290,Product_2290,Footwear,744
+2291,Product_2291,Fitness,3528
+2292,Product_2292,Fitness,834
+2293,Product_2293,Home Decor,3423
+2294,Product_2294,Apparel,3222
+2295,Product_2295,Footwear,3342
+2296,Product_2296,Fitness,2872
+2297,Product_2297,Footwear,913
+2298,Product_2298,Electronics,371
+2299,Product_2299,Footwear,2377
+2300,Product_2300,Home Decor,2381
+2301,Product_2301,Electronics,1727
+2302,Product_2302,Apparel,4379
+2303,Product_2303,Footwear,1311
+2304,Product_2304,Footwear,3679
+2305,Product_2305,Electronics,3355
+2306,Product_2306,Home Decor,3041
+2307,Product_2307,Home Decor,773
+2308,Product_2308,Home Decor,2787
+2309,Product_2309,Apparel,2950
+2310,Product_2310,Electronics,3644
+2311,Product_2311,Fitness,1393
+2312,Product_2312,Apparel,2514
+2313,Product_2313,Home Decor,2444
+2314,Product_2314,Home Decor,1819
+2315,Product_2315,Footwear,1358
+2316,Product_2316,Apparel,3059
+2317,Product_2317,Electronics,3315
+2318,Product_2318,Home Decor,1642
+2319,Product_2319,Fitness,3396
+2320,Product_2320,Footwear,1600
+2321,Product_2321,Electronics,4376
+2322,Product_2322,Electronics,3818
+2323,Product_2323,Electronics,2538
+2324,Product_2324,Footwear,4741
+2325,Product_2325,Fitness,483
+2326,Product_2326,Home Decor,3358
+2327,Product_2327,Footwear,2018
+2328,Product_2328,Footwear,4835
+2329,Product_2329,Fitness,638
+2330,Product_2330,Electronics,1284
+2331,Product_2331,Home Decor,1887
+2332,Product_2332,Apparel,1938
+2333,Product_2333,Electronics,3267
+2334,Product_2334,Electronics,4843
+2335,Product_2335,Fitness,4885
+2336,Product_2336,Apparel,907
+2337,Product_2337,Home Decor,1737
+2338,Product_2338,Home Decor,2058
+2339,Product_2339,Home Decor,1681
+2340,Product_2340,Fitness,4859
+2341,Product_2341,Apparel,4464
+2342,Product_2342,Apparel,749
+2343,Product_2343,Electronics,2305
+2344,Product_2344,Footwear,2305
+2345,Product_2345,Apparel,2161
+2346,Product_2346,Home Decor,699
+2347,Product_2347,Home Decor,1916
+2348,Product_2348,Footwear,749
+2349,Product_2349,Footwear,1545
+2350,Product_2350,Electronics,1564
+2351,Product_2351,Electronics,4300
+2352,Product_2352,Fitness,588
+2353,Product_2353,Home Decor,1304
+2354,Product_2354,Fitness,4761
+2355,Product_2355,Home Decor,4038
+2356,Product_2356,Fitness,581
+2357,Product_2357,Electronics,555
+2358,Product_2358,Apparel,1648
+2359,Product_2359,Footwear,2578
+2360,Product_2360,Home Decor,385
+2361,Product_2361,Electronics,1172
+2362,Product_2362,Electronics,346
+2363,Product_2363,Electronics,3975
+2364,Product_2364,Fitness,2182
+2365,Product_2365,Footwear,3872
+2366,Product_2366,Electronics,3813
+2367,Product_2367,Fitness,2805
+2368,Product_2368,Electronics,4367
+2369,Product_2369,Fitness,1876
+2370,Product_2370,Apparel,2587
+2371,Product_2371,Fitness,2157
+2372,Product_2372,Home Decor,2587
+2373,Product_2373,Footwear,1121
+2374,Product_2374,Fitness,915
+2375,Product_2375,Footwear,824
+2376,Product_2376,Fitness,2236
+2377,Product_2377,Footwear,4703
+2378,Product_2378,Apparel,1950
+2379,Product_2379,Home Decor,4152
+2380,Product_2380,Home Decor,3385
+2381,Product_2381,Home Decor,904
+2382,Product_2382,Fitness,4222
+2383,Product_2383,Home Decor,3174
+2384,Product_2384,Electronics,3934
+2385,Product_2385,Electronics,890
+2386,Product_2386,Home Decor,1682
+2387,Product_2387,Home Decor,2166
+2388,Product_2388,Fitness,3206
+2389,Product_2389,Home Decor,3367
+2390,Product_2390,Footwear,4196
+2391,Product_2391,Apparel,2196
+2392,Product_2392,Fitness,826
+2393,Product_2393,Fitness,4696
+2394,Product_2394,Electronics,111
+2395,Product_2395,Fitness,2772
+2396,Product_2396,Fitness,1586
+2397,Product_2397,Apparel,3160
+2398,Product_2398,Footwear,878
+2399,Product_2399,Apparel,2513
+2400,Product_2400,Footwear,4449
+2401,Product_2401,Electronics,4460
+2402,Product_2402,Apparel,4172
+2403,Product_2403,Apparel,3152
+2404,Product_2404,Apparel,1983
+2405,Product_2405,Home Decor,2900
+2406,Product_2406,Home Decor,4638
+2407,Product_2407,Apparel,345
+2408,Product_2408,Fitness,2423
+2409,Product_2409,Electronics,2568
+2410,Product_2410,Fitness,736
+2411,Product_2411,Electronics,758
+2412,Product_2412,Electronics,917
+2413,Product_2413,Home Decor,1090
+2414,Product_2414,Electronics,2417
+2415,Product_2415,Apparel,4631
+2416,Product_2416,Apparel,2587
+2417,Product_2417,Electronics,204
+2418,Product_2418,Home Decor,1105
+2419,Product_2419,Fitness,3233
+2420,Product_2420,Home Decor,4550
+2421,Product_2421,Home Decor,2858
+2422,Product_2422,Fitness,3708
+2423,Product_2423,Apparel,3777
+2424,Product_2424,Footwear,2726
+2425,Product_2425,Home Decor,303
+2426,Product_2426,Apparel,4364
+2427,Product_2427,Electronics,1845
+2428,Product_2428,Home Decor,2659
+2429,Product_2429,Home Decor,877
+2430,Product_2430,Electronics,4559
+2431,Product_2431,Footwear,3454
+2432,Product_2432,Footwear,888
+2433,Product_2433,Fitness,1446
+2434,Product_2434,Electronics,1176
+2435,Product_2435,Apparel,1571
+2436,Product_2436,Apparel,1496
+2437,Product_2437,Footwear,2691
+2438,Product_2438,Fitness,2971
+2439,Product_2439,Fitness,748
+2440,Product_2440,Apparel,656
+2441,Product_2441,Fitness,2374
+2442,Product_2442,Footwear,2096
+2443,Product_2443,Footwear,3923
+2444,Product_2444,Fitness,4876
+2445,Product_2445,Footwear,388
+2446,Product_2446,Footwear,1572
+2447,Product_2447,Fitness,4179
+2448,Product_2448,Footwear,4917
+2449,Product_2449,Electronics,4313
+2450,Product_2450,Footwear,3932
+2451,Product_2451,Home Decor,4527
+2452,Product_2452,Apparel,1687
+2453,Product_2453,Electronics,1572
+2454,Product_2454,Fitness,2002
+2455,Product_2455,Apparel,4928
+2456,Product_2456,Home Decor,1032
+2457,Product_2457,Apparel,3702
+2458,Product_2458,Footwear,821
+2459,Product_2459,Apparel,2030
+2460,Product_2460,Fitness,2245
+2461,Product_2461,Footwear,3258
+2462,Product_2462,Footwear,4421
+2463,Product_2463,Home Decor,2514
+2464,Product_2464,Apparel,1799
+2465,Product_2465,Home Decor,1720
+2466,Product_2466,Footwear,414
+2467,Product_2467,Footwear,3603
+2468,Product_2468,Home Decor,4657
+2469,Product_2469,Footwear,2636
+2470,Product_2470,Apparel,3275
+2471,Product_2471,Electronics,3180
+2472,Product_2472,Home Decor,2269
+2473,Product_2473,Fitness,3276
+2474,Product_2474,Electronics,195
+2475,Product_2475,Fitness,2110
+2476,Product_2476,Footwear,662
+2477,Product_2477,Electronics,1353
+2478,Product_2478,Footwear,2587
+2479,Product_2479,Footwear,4995
+2480,Product_2480,Home Decor,2090
+2481,Product_2481,Fitness,1047
+2482,Product_2482,Apparel,393
+2483,Product_2483,Home Decor,2799
+2484,Product_2484,Home Decor,3507
+2485,Product_2485,Fitness,232
+2486,Product_2486,Home Decor,4438
+2487,Product_2487,Fitness,2037
+2488,Product_2488,Home Decor,592
+2489,Product_2489,Electronics,4733
+2490,Product_2490,Fitness,3098
+2491,Product_2491,Apparel,3550
+2492,Product_2492,Home Decor,3760
+2493,Product_2493,Electronics,1892
+2494,Product_2494,Apparel,4036
+2495,Product_2495,Home Decor,2090
+2496,Product_2496,Home Decor,2508
+2497,Product_2497,Footwear,1207
+2498,Product_2498,Home Decor,2247
+2499,Product_2499,Apparel,2638
+2500,Product_2500,Apparel,827
+2501,Product_2501,Electronics,4989
+2502,Product_2502,Footwear,1336
+2503,Product_2503,Electronics,528
+2504,Product_2504,Electronics,3500
+2505,Product_2505,Home Decor,1594
+2506,Product_2506,Electronics,406
+2507,Product_2507,Fitness,3161
+2508,Product_2508,Footwear,4851
+2509,Product_2509,Home Decor,1635
+2510,Product_2510,Fitness,3454
+2511,Product_2511,Apparel,1199
+2512,Product_2512,Footwear,2096
+2513,Product_2513,Apparel,2944
+2514,Product_2514,Apparel,4068
+2515,Product_2515,Home Decor,4521
+2516,Product_2516,Fitness,4721
+2517,Product_2517,Footwear,3962
+2518,Product_2518,Home Decor,863
+2519,Product_2519,Electronics,3489
+2520,Product_2520,Footwear,702
+2521,Product_2521,Home Decor,1698
+2522,Product_2522,Footwear,3538
+2523,Product_2523,Footwear,3053
+2524,Product_2524,Home Decor,4414
+2525,Product_2525,Apparel,3235
+2526,Product_2526,Apparel,3519
+2527,Product_2527,Home Decor,2894
+2528,Product_2528,Footwear,4400
+2529,Product_2529,Apparel,1411
+2530,Product_2530,Fitness,3409
+2531,Product_2531,Electronics,3647
+2532,Product_2532,Electronics,4126
+2533,Product_2533,Fitness,1720
+2534,Product_2534,Fitness,2089
+2535,Product_2535,Fitness,241
+2536,Product_2536,Footwear,3488
+2537,Product_2537,Apparel,3788
+2538,Product_2538,Fitness,401
+2539,Product_2539,Home Decor,3047
+2540,Product_2540,Electronics,2596
+2541,Product_2541,Electronics,2866
+2542,Product_2542,Fitness,1368
+2543,Product_2543,Apparel,3954
+2544,Product_2544,Fitness,371
+2545,Product_2545,Home Decor,3684
+2546,Product_2546,Fitness,1867
+2547,Product_2547,Footwear,811
+2548,Product_2548,Fitness,3509
+2549,Product_2549,Footwear,3972
+2550,Product_2550,Apparel,2689
+2551,Product_2551,Apparel,4099
+2552,Product_2552,Home Decor,4659
+2553,Product_2553,Apparel,1839
+2554,Product_2554,Footwear,3587
+2555,Product_2555,Apparel,202
+2556,Product_2556,Footwear,1880
+2557,Product_2557,Home Decor,3703
+2558,Product_2558,Footwear,3497
+2559,Product_2559,Fitness,2340
+2560,Product_2560,Apparel,4687
+2561,Product_2561,Electronics,3557
+2562,Product_2562,Fitness,3990
+2563,Product_2563,Footwear,3865
+2564,Product_2564,Fitness,2718
+2565,Product_2565,Fitness,4146
+2566,Product_2566,Fitness,4056
+2567,Product_2567,Fitness,3869
+2568,Product_2568,Footwear,1782
+2569,Product_2569,Apparel,3341
+2570,Product_2570,Apparel,1898
+2571,Product_2571,Fitness,271
+2572,Product_2572,Electronics,1877
+2573,Product_2573,Apparel,4313
+2574,Product_2574,Footwear,1719
+2575,Product_2575,Footwear,358
+2576,Product_2576,Apparel,128
+2577,Product_2577,Footwear,3210
+2578,Product_2578,Footwear,1372
+2579,Product_2579,Home Decor,2959
+2580,Product_2580,Footwear,4056
+2581,Product_2581,Apparel,2161
+2582,Product_2582,Apparel,2007
+2583,Product_2583,Electronics,3003
+2584,Product_2584,Fitness,2993
+2585,Product_2585,Apparel,1495
+2586,Product_2586,Footwear,4690
+2587,Product_2587,Electronics,1922
+2588,Product_2588,Home Decor,164
+2589,Product_2589,Electronics,738
+2590,Product_2590,Footwear,4035
+2591,Product_2591,Apparel,2540
+2592,Product_2592,Electronics,3495
+2593,Product_2593,Footwear,1656
+2594,Product_2594,Home Decor,4965
+2595,Product_2595,Electronics,4906
+2596,Product_2596,Footwear,4520
+2597,Product_2597,Fitness,455
+2598,Product_2598,Apparel,1248
+2599,Product_2599,Footwear,1363
+2600,Product_2600,Fitness,2186
+2601,Product_2601,Apparel,4527
+2602,Product_2602,Apparel,1831
+2603,Product_2603,Apparel,1493
+2604,Product_2604,Fitness,590
+2605,Product_2605,Electronics,3364
+2606,Product_2606,Fitness,1130
+2607,Product_2607,Fitness,2146
+2608,Product_2608,Footwear,385
+2609,Product_2609,Footwear,2489
+2610,Product_2610,Home Decor,1944
+2611,Product_2611,Fitness,4794
+2612,Product_2612,Fitness,1319
+2613,Product_2613,Home Decor,3010
+2614,Product_2614,Fitness,530
+2615,Product_2615,Fitness,1467
+2616,Product_2616,Home Decor,4220
+2617,Product_2617,Home Decor,3407
+2618,Product_2618,Home Decor,4593
+2619,Product_2619,Apparel,1366
+2620,Product_2620,Footwear,3546
+2621,Product_2621,Home Decor,1621
+2622,Product_2622,Apparel,2989
+2623,Product_2623,Footwear,3536
+2624,Product_2624,Home Decor,3167
+2625,Product_2625,Fitness,2525
+2626,Product_2626,Fitness,2232
+2627,Product_2627,Footwear,553
+2628,Product_2628,Electronics,3946
+2629,Product_2629,Footwear,848
+2630,Product_2630,Apparel,4267
+2631,Product_2631,Fitness,2526
+2632,Product_2632,Fitness,2922
+2633,Product_2633,Home Decor,3625
+2634,Product_2634,Apparel,1032
+2635,Product_2635,Electronics,769
+2636,Product_2636,Apparel,4299
+2637,Product_2637,Apparel,3703
+2638,Product_2638,Apparel,1530
+2639,Product_2639,Apparel,3740
+2640,Product_2640,Electronics,4289
+2641,Product_2641,Apparel,4408
+2642,Product_2642,Electronics,2298
+2643,Product_2643,Footwear,1593
+2644,Product_2644,Apparel,2716
+2645,Product_2645,Home Decor,1696
+2646,Product_2646,Electronics,1123
+2647,Product_2647,Electronics,4736
+2648,Product_2648,Apparel,2719
+2649,Product_2649,Home Decor,113
+2650,Product_2650,Home Decor,1541
+2651,Product_2651,Apparel,1758
+2652,Product_2652,Home Decor,2814
+2653,Product_2653,Electronics,2225
+2654,Product_2654,Apparel,3678
+2655,Product_2655,Apparel,2747
+2656,Product_2656,Apparel,2361
+2657,Product_2657,Footwear,1727
+2658,Product_2658,Apparel,3665
+2659,Product_2659,Fitness,667
+2660,Product_2660,Fitness,2656
+2661,Product_2661,Electronics,2233
+2662,Product_2662,Footwear,2634
+2663,Product_2663,Footwear,4662
+2664,Product_2664,Home Decor,4799
+2665,Product_2665,Apparel,4670
+2666,Product_2666,Fitness,3371
+2667,Product_2667,Footwear,3057
+2668,Product_2668,Fitness,4984
+2669,Product_2669,Fitness,4615
+2670,Product_2670,Apparel,2857
+2671,Product_2671,Fitness,1530
+2672,Product_2672,Electronics,4214
+2673,Product_2673,Electronics,3321
+2674,Product_2674,Footwear,1910
+2675,Product_2675,Footwear,711
+2676,Product_2676,Home Decor,4195
+2677,Product_2677,Fitness,4012
+2678,Product_2678,Footwear,2848
+2679,Product_2679,Apparel,4295
+2680,Product_2680,Footwear,3053
+2681,Product_2681,Electronics,2179
+2682,Product_2682,Fitness,3408
+2683,Product_2683,Electronics,1173
+2684,Product_2684,Footwear,3491
+2685,Product_2685,Footwear,3044
+2686,Product_2686,Electronics,992
+2687,Product_2687,Home Decor,1946
+2688,Product_2688,Home Decor,4152
+2689,Product_2689,Footwear,4928
+2690,Product_2690,Home Decor,2954
+2691,Product_2691,Electronics,3205
+2692,Product_2692,Fitness,4578
+2693,Product_2693,Footwear,638
+2694,Product_2694,Apparel,1938
+2695,Product_2695,Home Decor,2166
+2696,Product_2696,Home Decor,2876
+2697,Product_2697,Apparel,444
+2698,Product_2698,Apparel,1344
+2699,Product_2699,Electronics,598
+2700,Product_2700,Electronics,2701
+2701,Product_2701,Home Decor,1894
+2702,Product_2702,Fitness,4494
+2703,Product_2703,Electronics,4757
+2704,Product_2704,Electronics,3422
+2705,Product_2705,Footwear,3841
+2706,Product_2706,Footwear,4985
+2707,Product_2707,Electronics,1845
+2708,Product_2708,Fitness,4699
+2709,Product_2709,Home Decor,3005
+2710,Product_2710,Apparel,178
+2711,Product_2711,Electronics,4282
+2712,Product_2712,Fitness,4950
+2713,Product_2713,Fitness,566
+2714,Product_2714,Fitness,4591
+2715,Product_2715,Electronics,380
+2716,Product_2716,Electronics,2383
+2717,Product_2717,Fitness,2189
+2718,Product_2718,Fitness,1312
+2719,Product_2719,Electronics,1811
+2720,Product_2720,Home Decor,1520
+2721,Product_2721,Electronics,1776
+2722,Product_2722,Footwear,4497
+2723,Product_2723,Fitness,649
+2724,Product_2724,Home Decor,2486
+2725,Product_2725,Apparel,4748
+2726,Product_2726,Electronics,4076
+2727,Product_2727,Fitness,3568
+2728,Product_2728,Electronics,3416
+2729,Product_2729,Apparel,3192
+2730,Product_2730,Electronics,1373
+2731,Product_2731,Home Decor,3167
+2732,Product_2732,Apparel,3673
+2733,Product_2733,Footwear,4987
+2734,Product_2734,Footwear,546
+2735,Product_2735,Fitness,3515
+2736,Product_2736,Footwear,1606
+2737,Product_2737,Electronics,580
+2738,Product_2738,Home Decor,1706
+2739,Product_2739,Footwear,3647
+2740,Product_2740,Fitness,4106
+2741,Product_2741,Electronics,4485
+2742,Product_2742,Fitness,3525
+2743,Product_2743,Fitness,1029
+2744,Product_2744,Home Decor,231
+2745,Product_2745,Home Decor,457
+2746,Product_2746,Fitness,4886
+2747,Product_2747,Fitness,4711
+2748,Product_2748,Footwear,433
+2749,Product_2749,Footwear,947
+2750,Product_2750,Apparel,3087
+2751,Product_2751,Home Decor,4677
+2752,Product_2752,Footwear,3202
+2753,Product_2753,Fitness,4096
+2754,Product_2754,Footwear,2797
+2755,Product_2755,Apparel,3951
+2756,Product_2756,Footwear,3325
+2757,Product_2757,Fitness,1876
+2758,Product_2758,Footwear,1376
+2759,Product_2759,Footwear,2461
+2760,Product_2760,Home Decor,4781
+2761,Product_2761,Home Decor,1632
+2762,Product_2762,Apparel,1442
+2763,Product_2763,Apparel,2244
+2764,Product_2764,Footwear,1096
+2765,Product_2765,Home Decor,303
+2766,Product_2766,Home Decor,1799
+2767,Product_2767,Footwear,1552
+2768,Product_2768,Home Decor,2244
+2769,Product_2769,Electronics,2734
+2770,Product_2770,Fitness,3663
+2771,Product_2771,Electronics,4237
+2772,Product_2772,Electronics,803
+2773,Product_2773,Electronics,3207
+2774,Product_2774,Home Decor,2356
+2775,Product_2775,Footwear,2232
+2776,Product_2776,Apparel,4839
+2777,Product_2777,Fitness,3409
+2778,Product_2778,Fitness,3116
+2779,Product_2779,Electronics,3516
+2780,Product_2780,Apparel,802
+2781,Product_2781,Footwear,1348
+2782,Product_2782,Apparel,4903
+2783,Product_2783,Apparel,3811
+2784,Product_2784,Fitness,2851
+2785,Product_2785,Home Decor,1849
+2786,Product_2786,Electronics,4785
+2787,Product_2787,Home Decor,4292
+2788,Product_2788,Fitness,3790
+2789,Product_2789,Apparel,3177
+2790,Product_2790,Electronics,1292
+2791,Product_2791,Footwear,1265
+2792,Product_2792,Footwear,4223
+2793,Product_2793,Apparel,4742
+2794,Product_2794,Home Decor,1691
+2795,Product_2795,Home Decor,861
+2796,Product_2796,Electronics,3216
+2797,Product_2797,Fitness,4939
+2798,Product_2798,Home Decor,1300
+2799,Product_2799,Footwear,467
+2800,Product_2800,Footwear,629
+2801,Product_2801,Footwear,452
+2802,Product_2802,Home Decor,1628
+2803,Product_2803,Apparel,3908
+2804,Product_2804,Home Decor,1903
+2805,Product_2805,Home Decor,1550
+2806,Product_2806,Electronics,4906
+2807,Product_2807,Fitness,3382
+2808,Product_2808,Home Decor,901
+2809,Product_2809,Home Decor,3223
+2810,Product_2810,Fitness,181
+2811,Product_2811,Footwear,141
+2812,Product_2812,Fitness,3637
+2813,Product_2813,Home Decor,4455
+2814,Product_2814,Apparel,844
+2815,Product_2815,Electronics,1986
+2816,Product_2816,Electronics,2794
+2817,Product_2817,Fitness,104
+2818,Product_2818,Fitness,4840
+2819,Product_2819,Footwear,675
+2820,Product_2820,Electronics,4944
+2821,Product_2821,Fitness,4183
+2822,Product_2822,Home Decor,4986
+2823,Product_2823,Home Decor,2235
+2824,Product_2824,Apparel,2942
+2825,Product_2825,Apparel,1136
+2826,Product_2826,Fitness,4198
+2827,Product_2827,Footwear,4912
+2828,Product_2828,Footwear,4313
+2829,Product_2829,Footwear,2781
+2830,Product_2830,Footwear,1869
+2831,Product_2831,Electronics,3812
+2832,Product_2832,Footwear,1441
+2833,Product_2833,Apparel,4707
+2834,Product_2834,Apparel,3785
+2835,Product_2835,Electronics,2550
+2836,Product_2836,Fitness,2815
+2837,Product_2837,Home Decor,4461
+2838,Product_2838,Apparel,4820
+2839,Product_2839,Apparel,4062
+2840,Product_2840,Electronics,880
+2841,Product_2841,Apparel,3923
+2842,Product_2842,Home Decor,3402
+2843,Product_2843,Electronics,1621
+2844,Product_2844,Footwear,202
+2845,Product_2845,Footwear,4265
+2846,Product_2846,Footwear,4538
+2847,Product_2847,Home Decor,162
+2848,Product_2848,Fitness,3184
+2849,Product_2849,Apparel,159
+2850,Product_2850,Home Decor,4693
+2851,Product_2851,Fitness,4558
+2852,Product_2852,Electronics,3905
+2853,Product_2853,Home Decor,1600
+2854,Product_2854,Electronics,4140
+2855,Product_2855,Fitness,1526
+2856,Product_2856,Home Decor,913
+2857,Product_2857,Apparel,4672
+2858,Product_2858,Fitness,299
+2859,Product_2859,Apparel,684
+2860,Product_2860,Electronics,1722
+2861,Product_2861,Apparel,4046
+2862,Product_2862,Home Decor,4275
+2863,Product_2863,Home Decor,2019
+2864,Product_2864,Footwear,2424
+2865,Product_2865,Apparel,1684
+2866,Product_2866,Footwear,1593
+2867,Product_2867,Fitness,1723
+2868,Product_2868,Electronics,4677
+2869,Product_2869,Fitness,2287
+2870,Product_2870,Electronics,2300
+2871,Product_2871,Apparel,2547
+2872,Product_2872,Home Decor,1789
+2873,Product_2873,Apparel,2019
+2874,Product_2874,Electronics,2682
+2875,Product_2875,Footwear,410
+2876,Product_2876,Electronics,2288
+2877,Product_2877,Footwear,4515
+2878,Product_2878,Fitness,1042
+2879,Product_2879,Home Decor,4549
+2880,Product_2880,Fitness,4783
+2881,Product_2881,Apparel,914
+2882,Product_2882,Footwear,1234
+2883,Product_2883,Footwear,2908
+2884,Product_2884,Fitness,1391
+2885,Product_2885,Home Decor,4345
+2886,Product_2886,Home Decor,4277
+2887,Product_2887,Fitness,1610
+2888,Product_2888,Home Decor,1949
+2889,Product_2889,Apparel,4586
+2890,Product_2890,Electronics,3055
+2891,Product_2891,Footwear,4385
+2892,Product_2892,Footwear,468
+2893,Product_2893,Footwear,3633
+2894,Product_2894,Electronics,2002
+2895,Product_2895,Apparel,3831
+2896,Product_2896,Fitness,349
+2897,Product_2897,Home Decor,1131
+2898,Product_2898,Home Decor,1437
+2899,Product_2899,Electronics,756
+2900,Product_2900,Footwear,2316
+2901,Product_2901,Home Decor,4386
+2902,Product_2902,Fitness,1646
+2903,Product_2903,Home Decor,397
+2904,Product_2904,Footwear,3073
+2905,Product_2905,Fitness,3246
+2906,Product_2906,Footwear,1454
+2907,Product_2907,Footwear,3765
+2908,Product_2908,Electronics,2056
+2909,Product_2909,Footwear,3233
+2910,Product_2910,Fitness,949
+2911,Product_2911,Electronics,2005
+2912,Product_2912,Electronics,569
+2913,Product_2913,Fitness,1023
+2914,Product_2914,Electronics,2067
+2915,Product_2915,Fitness,1306
+2916,Product_2916,Home Decor,3628
+2917,Product_2917,Electronics,4165
+2918,Product_2918,Home Decor,1886
+2919,Product_2919,Electronics,3629
+2920,Product_2920,Footwear,704
+2921,Product_2921,Fitness,4980
+2922,Product_2922,Footwear,1324
+2923,Product_2923,Home Decor,517
+2924,Product_2924,Fitness,3807
+2925,Product_2925,Fitness,4594
+2926,Product_2926,Home Decor,1445
+2927,Product_2927,Fitness,890
+2928,Product_2928,Fitness,3153
+2929,Product_2929,Electronics,4388
+2930,Product_2930,Apparel,3888
+2931,Product_2931,Footwear,2307
+2932,Product_2932,Apparel,1506
+2933,Product_2933,Fitness,3296
+2934,Product_2934,Apparel,3255
+2935,Product_2935,Electronics,3268
+2936,Product_2936,Home Decor,1230
+2937,Product_2937,Home Decor,603
+2938,Product_2938,Apparel,3670
+2939,Product_2939,Electronics,2634
+2940,Product_2940,Home Decor,3901
+2941,Product_2941,Apparel,3126
+2942,Product_2942,Apparel,3607
+2943,Product_2943,Footwear,3475
+2944,Product_2944,Electronics,4651
+2945,Product_2945,Footwear,3398
+2946,Product_2946,Apparel,4608
+2947,Product_2947,Footwear,2820
+2948,Product_2948,Footwear,1621
+2949,Product_2949,Apparel,2800
+2950,Product_2950,Home Decor,3772
+2951,Product_2951,Fitness,1234
+2952,Product_2952,Home Decor,299
+2953,Product_2953,Electronics,557
+2954,Product_2954,Home Decor,1419
+2955,Product_2955,Apparel,261
+2956,Product_2956,Footwear,2119
+2957,Product_2957,Electronics,2054
+2958,Product_2958,Electronics,1291
+2959,Product_2959,Electronics,4003
+2960,Product_2960,Footwear,3834
+2961,Product_2961,Home Decor,4935
+2962,Product_2962,Footwear,4249
+2963,Product_2963,Fitness,2852
+2964,Product_2964,Electronics,2174
+2965,Product_2965,Apparel,2191
+2966,Product_2966,Footwear,682
+2967,Product_2967,Electronics,2049
+2968,Product_2968,Footwear,2153
+2969,Product_2969,Footwear,1637
+2970,Product_2970,Home Decor,992
+2971,Product_2971,Footwear,3770
+2972,Product_2972,Apparel,126
+2973,Product_2973,Fitness,3817
+2974,Product_2974,Fitness,4094
+2975,Product_2975,Footwear,400
+2976,Product_2976,Footwear,382
+2977,Product_2977,Footwear,3004
+2978,Product_2978,Fitness,2796
+2979,Product_2979,Footwear,4161
+2980,Product_2980,Home Decor,3035
+2981,Product_2981,Footwear,1439
+2982,Product_2982,Apparel,889
+2983,Product_2983,Apparel,550
+2984,Product_2984,Fitness,3229
+2985,Product_2985,Apparel,1177
+2986,Product_2986,Fitness,552
+2987,Product_2987,Apparel,1018
+2988,Product_2988,Fitness,2486
+2989,Product_2989,Electronics,2826
+2990,Product_2990,Apparel,4645
+2991,Product_2991,Footwear,959
+2992,Product_2992,Fitness,1515
+2993,Product_2993,Fitness,1497
+2994,Product_2994,Home Decor,2625
+2995,Product_2995,Electronics,956
+2996,Product_2996,Electronics,3632
+2997,Product_2997,Footwear,1449
+2998,Product_2998,Fitness,4752
+2999,Product_2999,Electronics,2644
+3000,Product_3000,Electronics,3594
